@@ -16,7 +16,7 @@ service:
   ports:
     - name: http
       port: 80
-      targetPort: 31734
+      targetPort: 3134
 
 ingress:
   enabled: false
